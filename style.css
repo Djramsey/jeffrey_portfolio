@@ -31,17 +31,21 @@ h3{
 
 body > div.main-content > div > div > div.sidebar.col-sm-12.col-md-4{
 	display:none;
+}
+#post-4 > div > nav{
+	display:none;
+}
+
+#post-4 > header > h1{
+	display:none;
+}
 
 
 
+#content{
+	padding:0px;
+}
 
-
-
-
-
-
-
-
-
-
-
+body > nav > div > div > div{
+	padding:0px;
+}
