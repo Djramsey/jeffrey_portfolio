@@ -48,20 +48,73 @@ body > div.main-content > div > div > div.sidebar.col-sm-12.col-md-4{
 }
 
 body > nav > div > div > div{
-	padding:0px;
+	
+
 }
 
 #masthead{
-	background-color:#303F9F;
+	background-color:#3F51B5;
 }
 
 #post-4 > div > div.jumbotron{
-	background-color: #303F9F;
+	background-color:#3F51B5;
 }
 
 
+#post-4 > div > div.jumbotron{
+	border-radius:0px; /* no curves*/
 
 
+}
+
+.col-lg-1, .col-lg-10, 
+.col-lg-11, .col-lg-12, 
+.col-lg-2, .col-lg-3, .col-lg-4, 
+.col-lg-5, .col-lg-6, .col-lg-7, 
+.col-lg-8, .col-lg-9, .col-md-1, 
+.col-md-10, .col-md-11, .col-md-12, 
+.col-md-2, .col-md-3, .col-md-4, 
+.col-md-5, .col-md-6, .col-md-7, 
+.col-md-8, .col-md-9, .col-sm-1, 
+.col-sm-10, .col-sm-11, .col-sm-12, 
+.col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, 
+.col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, 
+.col-xs-1, .col-xs-10, .col-xs-11, .col-xs-12, 
+.col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, 
+.col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9 {
+	min-height:0px;
+}
+#navbar-collapse{
+	background-color: #303F9F; /*navbar background color*/
+
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form{
+	border-color:transparent;
+}
+#post-4 > div > div.jumbotron > h1{
+	color:white;
+	text-align:center;
+}
+#masthead > div > div > div > div > h1{
+	color:white;
+	text-align:center;
+
+}
+
+#masthead > div > div > div > div > p{
+	text-align:center;
+	color:white;
+}
+a{
+	color:#FF5722;
+}
+.navbar-default .navbar-nav>li>a {
+	color:white;
+}
+
+body{
+	background-color:white;
+}
 
 
 
