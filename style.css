@@ -17,6 +17,7 @@
  body{
 	background-color: lightblue; 
 	margin: ;
+	padding-top: 50px; 
 }
 a{
 	display:;
@@ -49,3 +50,25 @@ body > div.main-content > div > div > div.sidebar.col-sm-12.col-md-4{
 body > nav > div > div > div{
 	padding:0px;
 }
+
+#masthead{
+	background-color:#303F9F;
+}
+
+#post-4 > div > div.jumbotron{
+	background-color: #303F9F;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
