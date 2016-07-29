@@ -17,7 +17,7 @@
  body{
 	background-color: lightblue; 
 	margin: ;
-	padding-top: 50px; 
+	padding-top: ; 
 }
 a{
 	display:;
@@ -61,7 +61,7 @@ body > nav > div > div > div{
 }
 
 
-#post-4 > div > div.jumbotron{
+#post-4 > div > div.jumbdotron{
 	border-radius:0px; /* no curves*/
 
 
@@ -89,7 +89,7 @@ body > nav > div > div > div{
 
 }
 .navbar-default .navbar-collapse, .navbar-default .navbar-form{
-	border-color:transparent;
+	border-color:black;
 }
 #post-4 > div > div.jumbotron > h1{
 	color:white;
@@ -116,10 +116,14 @@ body{
 	background-color:white;
 }
 
+#masthead > div > div > div > div{
+	padding-top:40px;
+}
 
 
-
-
+.container .jumbotron, .container-fluid .jumbotron {
+	border-radius:0px;
+}
 
 
 
