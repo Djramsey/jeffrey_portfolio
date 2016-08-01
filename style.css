@@ -12,7 +12,11 @@
 */
 
 
+@import url(https://fonts.googleapis.com/css?family=Ubuntu);
 
+@import url(https://fonts.googleapis.com/css?family=Didact+Gothic);
+
+ 
 
  body{
 	background-color: lightblue; 
@@ -114,6 +118,7 @@ a{
 
 body{
 	background-color:white;
+	font-family: 'Didact Gothic', sans-serif;
 }
 
 #masthead > div > div > div > div{
@@ -136,5 +141,19 @@ p{
 
 *{
 	text-align:center;
+
+
 }
 
+#post-6 > div > div.page_content.inner > div:nth-child(3) > div > div > table > tbody > tr > td:nth-child(1) > div.paragraph > span{
+
+}
+
+#main-menu{
+	float:right;
+}
+
+
+h1,h2,h3,h4,h5,h6{
+font-family: 'Ubuntu', sans-serif;
+}
