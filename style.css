@@ -98,7 +98,7 @@ body > nav > div > div > div{
 #masthead > div > div > div > div > h1{
 	color:white;
 	text-align:center;
-
+	padding-top:100px;
 }
 
 #masthead > div > div > div > div > p{
@@ -117,7 +117,7 @@ body{
 }
 
 #masthead > div > div > div > div{
-	padding-top:40px;
+	padding-top:40p	x;
 }
 
 
@@ -126,6 +126,15 @@ body{
 }
 
 
+h1{
+	text-align:center;
+}
 
+p{
+	text-align:center;
+}
 
+*{
+	text-align:center;
+}
 
